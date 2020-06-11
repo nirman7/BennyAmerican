@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913332453675",
+    "firebase_url": "https://benny-8f41c.firebaseio.com",
+    "project_id": "benny-8f41c",
+    "storage_bucket": "benny-8f41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913332453675:android:16b0224b57d75fb93a456e",
+        "android_client_info": {
+          "package_name": "com.benny.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913332453675-jign23uikkaoqdio6osrg5dq7md6s4mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPir0Z6MTaMN4xDCkPkOOMFUZZxibT5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913332453675-jign23uikkaoqdio6osrg5dq7md6s4mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
